@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "reactdemo",
+=======
+  "name": "test-01",
+>>>>>>> 49b6638a878febe870b281db30e060632ca66b2b
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+<<<<<<< HEAD
+=======
+.history
+>>>>>>> 49b6638a878febe870b281db30e060632ca66b2b
 /.pnp
 .pnp.js
 
